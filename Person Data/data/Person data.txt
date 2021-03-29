@@ -1,0 +1,7 @@
+1;Ahmed;Cairo;
+5;Mostafa;giza;
+3;tara;mansoura;
+4;yasmine;tawfikia;
+55;km;j;
+45;Ahmed;cairo;
+7;Sorya;westham;

@@ -1,0 +1,10 @@
+G:\C#\the beginning\Person Data\Person Data\bin\Debug\Person Data.exe.config
+G:\C#\the beginning\Person Data\Person Data\bin\Debug\Person Data.exe
+G:\C#\the beginning\Person Data\Person Data\bin\Debug\Person Data.pdb
+G:\C#\the beginning\Person Data\Person Data\obj\Debug\Person Data.csprojAssemblyReference.cache
+G:\C#\the beginning\Person Data\Person Data\obj\Debug\Person_Data.Form1.resources
+G:\C#\the beginning\Person Data\Person Data\obj\Debug\Person_Data.Properties.Resources.resources
+G:\C#\the beginning\Person Data\Person Data\obj\Debug\Person Data.csproj.GenerateResource.cache
+G:\C#\the beginning\Person Data\Person Data\obj\Debug\Person Data.csproj.CoreCompileInputs.cache
+G:\C#\the beginning\Person Data\Person Data\obj\Debug\Person Data.exe
+G:\C#\the beginning\Person Data\Person Data\obj\Debug\Person Data.pdb
